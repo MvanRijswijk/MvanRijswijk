@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MvanRijswijk
-- 👀 I’m interested in Making small, quality of life systems.
+- 👀 I’m interested in making small, quality of life systems.
 - 🌱 I’m currently learning Angular and NodeJS
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
